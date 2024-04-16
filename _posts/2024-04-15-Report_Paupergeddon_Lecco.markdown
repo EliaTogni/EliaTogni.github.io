@@ -156,7 +156,7 @@ Side In: 2x Relic of Progenitus, 3x Tectonic Hazard
 
 Side Out: 2x Implement of Combustion, 3x Goblin Blast Runner
 
-Ammetto di non ricordarmi assolutamente G2 ma dal foglietto segnapunti posso solo leggere <s>20</s>, \cancel{19}, \cancel{15}, \cancel{10}, \cancel{3}. Penso il game sia durato circa 5 minuti, sono andato troppo veloce e Luca non ha avuto modo di rispondere.
+Ammetto di non ricordarmi assolutamente G2 ma dal foglietto segnapunti posso solo leggere <s>20</s>, <s>19</s>, <s>15</s>, <s>10</s>, <s>3</s>. Penso il game sia durato circa 5 minuti, sono andato troppo veloce e Luca non ha avuto modo di rispondere.
 
 G3 parto on the draw con Fornace into doppio Tomb Raider. Luca cerca di mettere una pezza con dei bloccanti 1/1 ma un Tectonic Hazard pulisce il suo lato di board e lo convince a concedere prima del tempo.
 
