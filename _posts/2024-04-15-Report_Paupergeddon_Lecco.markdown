@@ -239,6 +239,13 @@ Affranto, mi illudo che Ivan non possa più partire così forte. Sbagliando, ovv
 
 ![Io ogni volta che ritrovo il playset di Monaca foil nel faldone](/../assets/images/Monastery.png "Io ogni volta che ritrovo il playset di Monaca foil nel faldone")
 
+<div style="text-align:center">
+  <img src="/../assets/images/Monastery.png" alt="Io ogni volta che ritrovo il playset di Monaca foil nel faldone">
+  <p>Io ogni volta che ritrovo il playset di Monaca foil nel faldone.</p>
+</div>
+
+style="width:400px;height:300px;
+
 Ivan mi rivela di aver tenuto una mano con una Faitfhul e di aver visto le altre due i turni 2 e 3. Uomini forti, destini forti. Faccio la mossa del granchio e gli stringo la mano, congratulandomi con lui per la vittoria meritata.
 
 # Conclusioni
