@@ -63,7 +63,10 @@ G3 scorre molto più liscio, nonostante una partenza relativamente lenta con Bla
 
 Già a turno 2 sto ai tavoli alti: di fianco a me gioca Heisen e così ho modo di sbirciare cosa gioca (BG Gardens). Arriva l'oppo che scopro essere nientedimeno che ZippoMTG. Perdo il dado e Stefano parte di Montagna into Voldaren Epicure (rigorosamente artworkate). O mirror o Rakdos Madness, quindi. Nel secondo caso, sviluppare la board è la chiave per portare a casa la partita. Nel primo caso invece, partire on the draw mi dà un edge in quanto vedo una carta in più e il mirror si gioca in maniera molto controllosa. All'Epicure di Stefano rispondo con la medesima giocata e la partita prosegue in maniera molto calma, in quanto entrambi ci boltiamo a vicenda i Tomb Raider, fino a quando non vedo Kuldotha per primo e cerco di portarmi in vantaggio di board nella speranza che lui non giochi End the Festivities di main. Alla mia Kuldotha lui risponde nel medesimo modo ma il topdeck di Bushwhacker mi permette di giocare più aggressivo e costringerlo a traddare i suoi tre goblin con i miei, lasciando sulla board solamente un Bushwhacker e un Blast Runner. A questo punto pesco meglio e riesco a chiudere con un mix di piegate e di botti in faccia.
 
-![Mirror di Kuldotha](/../assets/images/SpiderManMeme.jpeg "Mirror di Kuldotha")
+<div style="text-align:center">
+  <img src="/../assets/images/SpiderManMeme.jpeg">
+  <p>Mirror di Kuldotha</p>
+</div>
 
 Side In: 3x Tectonic Hazard, 2x Cast into the Fire.
 
@@ -84,7 +87,10 @@ Side Out: 2x Kuldotha Rebirth, 2x Goblin Bushwhacker, 3x Chain Lightning
 
 G2 mulligo a 6 e tengo una mano con un Blast Runner, un Implement e uno Smash to Smithereens, sperando che l'oppo non parta a cannone. Per sua sfortuna, vedo un Cast into the Fire e un altro Smash to Smithereens, togliendogli tutte le lande e frantumandogli il sogno del 3-0. Al quarto turno senza lande in gioco, Clemens concede con un velo di rassegnazione nello sguardo.
 
-![Io e gli gnari al geddon](/../assets/images/PotaPauperBresciaPaupergeddonLecco.jpg "Io e gli gnari al geddon")
+<div style="text-align:center">
+  <img src="/../assets/images/PotaPauperBresciaPaupergeddonLecco.jpg">
+  <p>Me and the boys al Paupergeddon</p>
+</div>
 
 ---
 
@@ -97,7 +103,10 @@ Non avendo nulla da sidare, applico il famoso inganno della cadrega e fingo di m
 
 Nell'attesa del match scopro che Paolo, un fratm di lega è stato pairato contro un giocatore del trio di CardMarket. Dopo la sua schiacciante vittoria, facciamo come le adolescenti con i modelli di Abercrombie un decennio fa e ci facciamo una fotuzza insieme.
 
-![Fotuzza da groupies con i ragazzi di CardMarket](/assets/images/CardMarket.jpg "Fotuzza da groupies con i ragazzi di CardMarket")
+<div style="text-align:center">
+  <img src="/../assets/images/CardMarket.jpg">
+  <p>Fotuzza da groupies con i ragazzi di CardMarket</p>
+</div>
 
 ---
 
@@ -112,7 +121,10 @@ Side Out: 3x Chain Lightning, 2x Experimental Synthesizer, 2 Goblin Bushwacker, 
 
 G2 parto mulligando e tengo a 6 una mano con Gorilla Shaman, un Seal of Fire e la partenza canonica di Fornace into Lara Croft. Aspetto a calare lo Shaman fino a turno 3, con l'oppo tapped out. In questo modo riesco a togliergli l'unica landa non indistruttibile e un Clue token, rallentandolo notevolmente. Il turno successivo Nicolò si trova costretto a giocare un'altra landa artefatto per poter sviluppare il suo gameplan ma, slandato e senza board, viene travolto dai miei token Goblin gialli e incazzati.
 
-![I suddetti token Goblin gialli e incazzati](/../assets/images/TokenGoblin.png "I suddetti token Goblin gialli e incazzati")
+<div style="text-align:center">
+  <img src="/../assets/images/TokenGoblin.png">
+  <p>I suddetti token Goblin gialli e incazzati</p>
+</div>
 
 G3 sono on the draw ma tengo a 7 una mano con un Goblin Blast Runner, un Implement, due lande, una Kuldotha, un Seal of Fire e un Demand Answers. Purtroppo la varianza decide di colpire in questo fatidico momento e pesco letteralmente 8 lande di fila. Cerco di mantenere la mia migliore faccia da poker anche quando, scartando landa per castare Demand Answers, pesco altre due Montagne ma dentro di me la speranza del 5-0 vacilla. Continuo comunque a giocare, nella speranza che l'oppo si faccia intimorire dall'innumerevole quantità di carte nella mia mano. Finalmente, Nicolò appoggia con timidezza un Glitters su Thraben e lì devo sfoderare la mia mossa migliore, aka quella del granchio. Alla mia concessione, Nicolò mi rivela la mano con 3 Hydroblast ed un altro Glitters. Io gli rivelo 4 Montagne e ci stringiamo la mano mentre i miei fratm che hanno droppato e assistito al match cercano di consolarmi per la sfiga avuta.
 
@@ -227,7 +239,10 @@ Escono i turni e sono pairato contro il polacco Ivan, che appena arrivato al tav
 
 Sono finalmente sicuro che sia arrivato il mio turno di vincere il dado: 3. Mi sento come Rat-Man dopo aver missato un appiglio.
 
-![](/../assets/images/FlettoIMuscoli.jpg)
+<div style="text-align:center">
+  <img src="/../assets/images/FlettoIMuscoli.jpg">
+  <p>Fedele rappresentazione di me contro Familiars, a cura di Leo Ortolani</p>
+</div>
 
 Bestemmio tra me e me ma, come insegna il maestro, cadere e rialzarsi. Puntiamo su una partenza forte allora: 0 lande. Bene. Come diceva Confucio: "Porcodiaz". Ivan keepa mentre io mulligo, tenendo una mano con Kuldotha, Bushwhacker ed Epicure. Se l'oppo fa la partenza di Ash Barrens into Bounceland sto nel burro. Il game inizia: Pianura into Faithful. Pesco un Blast Runner, lo appoggio e passo. Isola into Faithful. Un tuffo al cuore come dopo che il secondo aereo ha colpito le Twin Towers. Game irrecuperabile in alcun modo.
 
@@ -237,14 +252,10 @@ Side Out: 3 Seal of Fire
 
 Affranto, mi illudo che Ivan non possa più partire così forte. Sbagliando, ovviamente. Il buon Ivan vede 3 Faithful in 6 turni e mi chiede anche scusa, consapevole di aver appena infranto ogni mia speranza sculando parecchio. Lo guardo con sdegno, mentre penso a quanto mi manca la Monastery.
 
-![Io ogni volta che ritrovo il playset di Monaca foil nel faldone](/../assets/images/Monastery.png "Io ogni volta che ritrovo il playset di Monaca foil nel faldone")
-
 <div style="text-align:center">
   <img src="/../assets/images/Monastery.png" alt="Io ogni volta che ritrovo il playset di Monaca foil nel faldone">
   <p>Io ogni volta che ritrovo il playset di Monaca foil nel faldone.</p>
 </div>
-
-style="width:400px;height:300px;
 
 Ivan mi rivela di aver tenuto una mano con una Faitfhul e di aver visto le altre due i turni 2 e 3. Uomini forti, destini forti. Faccio la mossa del granchio e gli stringo la mano, congratulandomi con lui per la vittoria meritata.
 
