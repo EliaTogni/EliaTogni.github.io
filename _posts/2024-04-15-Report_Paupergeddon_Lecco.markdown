@@ -10,7 +10,7 @@ tag:
 - Paupergeddon
 category: blog
 author: bonsoir\_elio\_t
-description: Markdown summary with different options
+description: A report of my run at the Paupergeddon Lecco 2024
 ---
 
 Ciao a tutti! Mi chiamo Elia Togni, in arte **bonsoir_elio_t**, e ho scritto questo report perchè ci tenevo particolamente a condividere la mia prima esperienza competitiva di questa portata.
