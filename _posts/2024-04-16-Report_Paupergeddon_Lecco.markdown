@@ -40,7 +40,7 @@ Ciao a tutti! Mi chiamo Elia Togni, in arte **bonsoir_elio_t**, e ho scritto que
 2 Cast into the Fire<br />
 2 Relic of Progenitus
 
-Senza dilungarmi troppo, la scelta di giocare le due copie di Demand Answers è motivata dal fatto che mi ci sono trovato bene nella fase di playtesting. Non gioco le galvaniche in quanto tendono troppo frequentemente a fare 2 danni invece che 4 e spesso mi portano a fare giocate subottimali o a sequenziare in maniera non efficiente il cast delle spell per poter ottenere metalcraft. Ho ritenuto non fosse un vantaggio sufficiente e mi ha permesso di giocare quindi Demand Answers in serenità e di avere spazio per più copie di Seal of Fire, che trovo migliorino molto il matchup contro Glitters. Le 18 lande invece delle 17 tipiche della lista di Selkcahs sono dovute al fatto che con una landa in più riduco del 5% la probabilità di vedere mani monolanda e io tendo a tenere monolanda troppo spesso quindi era per impedirmi il più possibile di fare scelte rischiose.
+Senza dilungarmi troppo, la scelta di giocare le due copie di Demand Answers è motivata dal fatto che mi ci sono trovato bene nella fase di playtesting. Non gioco le Galvaniche in quanto tendono troppo frequentemente a fare 2 danni invece che 4 e spesso mi portano a fare giocate subottimali o a sequenziare in maniera non efficiente il cast delle spell per poter ottenere metalcraft. Ho ritenuto non fosse un vantaggio sufficiente e mi ha permesso di giocare quindi Demand Answers in serenità e di avere spazio per più copie di Seal of Fire, che trovo migliorino molto il matchup contro Glitters. Le 18 lande invece delle 17 tipiche della lista di Selkcahs sono dovute al fatto che con una landa in più riduco del 5% la probabilità di vedere mani monolanda e io tendo a tenere monolanda troppo spesso quindi era per impedirmi il più possibile di fare scelte rischiose.
 
 Per quanto riguarda la side, le 2 copie di Cast into the Fire sono a posteriori state un errore ma, in sincerità, mi aspettavo di vedere molti più Grixis Affinity. Il resto della side è relativamente stock, con i Gorilla Shaman per Glitters e Grixis.
 
@@ -130,7 +130,7 @@ G3 sono on the draw ma tengo a 7 una mano con un Goblin Blast Runner, un Impleme
 
 ---
 
-## Turno 6 - Azorius Familiars (Nicolò Gavino)
+## Turno 6 - Azorius Familiars (Nicolò Garino)
 **Risultato**: 0 - 2
 
 L'entusiasmo dovuto alla win streak è calato drasticamente e la mezz'ora di attesa prima dell'inizio del turno non ha aiutato affatto. Quando finalmente escono i pairings, un ragazzo che stava rientrando nel palazzetto mi sente nominare il mio prossimo avversario e decide di palesarsi come tale. Non so se oltre a questo abbia carpito anche informazioni su cosa giocassi, fatto stà che G1 io tengo una mano non troppo esplosiva mentre lui decide di mulligare a 5 e partire di Pianura into God Pharaon's Faithful. I miei sogni di gloria si incrinano ulteriormente e, mentre cerco di portarmi a casa il game rimuovendogli la maledetta 0/4, lui appoggia una Mortuary Mire e raddoppia il numero di fedeli in campo. Da 8 punti vita l'oppo torna a 16 in un turno e capisco che questo game è già finito.
