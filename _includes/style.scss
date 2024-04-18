@@ -21,3 +21,9 @@
 @import "components/side-by-side";
 @import "components/social-links";
 @import "components/spoiler";
+
+.card-display {
+    position: absolute;
+    display: none;
+    /* Add more styling as needed */
+}
