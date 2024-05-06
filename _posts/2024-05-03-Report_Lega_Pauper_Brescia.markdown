@@ -42,9 +42,9 @@ Premessa: Venerdì ho dimenticato il mio fidato segnapunti sul quale mi annoto a
 3 Smash to Smithereens<br />
 3 Relic of Progenitus<br />
 
-Ho deciso di portare in tappa di Lega una variante della lista con cui Carvs sta macinando trofei nell'ultimo periodo. Ho deciso di giocare due copie di Seal of Fire al posto delle Galvanic Blast in quanto mi trovo spesso a fare giocate subottimali o sequenziare in maniera non efficiente il cast delle spell per poter ottenere Metalcraft. Al contrario, i Seal of Fire funzionano bene anche se esiliati da Synth e mi permettono di sviluppare il mio gameplan contro Glitters invece di dover sempre rimanere aperto per boltare un'eventuale creatura bersagliata dall'aura. Poichè la lista gioca solo carta da 1CMC, sono sceso a 17 lande ma non sono ancora del tutto convinto.
+Ho deciso di portare in tappa di Lega una variante della lista con cui Carvs sta macinando trofei nell'ultimo periodo. Inoltre, ho scelto di giocare due copie di Seal of Fire al posto delle Galvanic Blast in quanto mi trovo spesso a fare giocate subottimali o sequenziare in maniera non efficiente il cast delle spell per poter ottenere Metalcraft. Al contrario, i Seal of Fire funzionano bene anche se esiliati da Synth e mi permettono di sviluppare il mio gameplan contro Glitters invece di dover sempre rimanere aperto per boltare un'eventuale creatura bersagliata dall'aura. Poichè la lista gioca solo carta da 1CMC, sono sceso a 17 lande ma non sono ancora del tutto convinto.
 
-La side invece è una side stock senza Flaring Pain di side perchè non mi aspettavo Turbofog o Caw Gates in negozio mentre la monocopia champagne di Searing Blaze era lì come tappabuchi perchè non trovo più la quarta REB.
+La sideboard invece è una side stock senza alcuna copia di Flaring Pain perchè non mi aspettavo Turbofog o Caw Gates in negozio mentre la monocopia champagne di Searing Blaze era lì come tappabuchi perchè non trovo più la quarta REB.
 
 ---
 
@@ -57,6 +57,7 @@ Leggo su Companion il nome del mio primo oppo e prevedo già una cocente sconfit
 Il primo game parto OTP e appoggio creatura non rapida, al quale Trivo risponde con un Isola. Vedo la terra e spero con tutto me stesso che non stia giocando Familiars, in quanto non solo trovo che il mazzo sia un brutto matchup ma anche perchè l'oppo c'ha fatto top 8 ad un geddon. Fortunatamente il mio mazzo decide di fare quel che deve fare indisturbato, anche perchè Trivo appoggia due isole i primi turni e nient'altro. Quando, al terzo turno, si tappa out per calare un Sea Gate Oracle, posso permettermi di boltarlo in serenità e continuare a picchiare. Il turno successivo l'oppo concederà in quanto troppo basso di vita e senza risposte in mano.
 
 Side in: 2 Red Elemental Blast
+
 Side out: 2 Seal of Fire
 
 Poichè la lista è un po' più aggro di quelle che tendo a giocare di solito, preferisco non snaturare troppo il gameplan e non entrare con troppe carte. Non sapendo quale carta togliere per la terza REB, decido di non toglierne nessuna oltre alle due copie di Seal of Fire.
@@ -73,6 +74,7 @@ G3 tengo una buona mano ed il game va abbastanza veloce. L'unica giocata rilevan
 G1 perdo malamente il dado ma la mano iniziale mi sembra buona: Fornace, landa, Lara Croft, Bushwhacker, Lackey e Seal of Fire. Sarebbe un game facile se al secondo turno l'oppo non avesse millato uno Gnaw to the Bone ed un Stinkweed Imp con l'ETB di Satyr Wayfinder. Non curante delle botte ricevute, dopo neanche un turno Francesco casta un Rosicchiare fino all'Osso da 26 e casta un Dread Return, rianimando un Lotleth Troll che mi pinga per 12. Guardo il cimitero dell'oppo e ci sono due Dread Return e un paio di ciccioni. Decido allora di killare il Gigante con un Bolt ed un Seal of Fire, temendo un Acorn Harvest in mano. Il Sigillo triggera il Blast Runner e mi permette così di menare un po', per provare a portare l'oppo più basso di vita possibile nella speranza che lui non veda un altro rianimino. Purtroppo Pina ne aveva già pescato una altro e quindi si mette in saccoccia G1 senza troppi affanni.
 
 Side in: 3 Relic of Progenitus
+
 Side out: 2 Seal of Fire, 1 Implement of Combustion
 
 G2 pesco 7 bellissime carte ma senza lande non si va da nessuna parte. Mulligo a 6 e vedo una bellissima Relic oltre ad una mano esplosiva, benchè nuovamente monolanda. Purtroppo giocando 17 terre, queste mani capitano troppo spesso. La partenza classica di Fornace into Tomb Raider, però, non delude mai. L'oppo risponde ciclando Oliphaunt e pigliando tapland. Il turno dopo appoggio Relic che esilia creatura mentre il buon Claudio Bisio mena indisturbato per due danni. Il turno successivo l'oppo si trova costretto ad appoggiare una seconda tapland, rendendosi conto che probabilmente la partenza è stata troppo lenta. Il game procede con me che continuo a menare fino a quando Francesco milla uno Gnaw to the Bone, al quale rispondo esiliando Relic e tutti i cimiteri. Pesco una seconda Reliquia e Pina concede, consapevole di non avere un modo abbastanza rapido di ripartire.
@@ -89,6 +91,7 @@ G3 teniamo entrambi senza azzardare un mulligan. Io tengo una mano senza Relic m
 Turno 3 contro un mazzo champagne che non sono riuscito ad osservare i turni precedenti, quindi sono totalmente spaesato: non so se giocare intorno a Prismatic Strands e maledico il momento in cui ho deciso di non metterle di side. Il primo game, per sfortuna di Rizzo, finisce molto in fretta a causa di una sua incredibile floodata. Le uniche carte non terra che vedrà sono le Expedition Map.
 
 Side in: - (non ho letteralmente visto nulla e non so se valga la pena entrare di Smash per Mappa, essendo Rizzo on the play)
+
 Side out: -
 
 Parte Rizzo on the play con terra into Mappa, alla quale risponderò con un Epicure. Il turno successivo, l'oppo topdecka un Circolo di Protezione: Rosso che farà diventare una lunga agonia per entrambi questo match. I primi turni riesco a far passare qualche danno nonostante l'enchantment ma, nel momento in cui Rizzo riesce a chiudere trono, le mie 20 creature in board diventano inutili. La mia unica chance di vittoria diventa quindi il token Samurai creato saccando Synth. Dei tre che riuscirò a creare durante il game, due si mangeranno un Journey to Nowhere mentre l'ultimo mi porterà alla vittoria, mentre tutti i miei botti miravano alle Eagles of the North dell'oppo. Solo all'ultima decisiva combat, Rizzo mi rivela di avere in mano Prismatic Strands ma non sarà sufficiente in quanto ad 1 punto vita e senza il mana necessario per prevenire il danno di tutte le mie creature.
@@ -101,6 +104,7 @@ Parte Rizzo on the play con terra into Mappa, alla quale risponderò con un Epic
 Primo game, Luigi mulliga a 5 mentre io tengo a 7 una mano con numerose creature. Il game dura poco in quanto Luigi non riesce a sostenere la pressione e subisce il colpo di grazia dato da un Synth che gira Bushwhacker a board piena.
 
 Side in: 3 Relic of Progenitus, 1 Red Elemental Blast
+
 Side out: 2 Seal of Fire, 1 Implement of Combustion
 
 Decido di giocare a 61 carte seguendo una dritta di Marco Rossi in un video della Martesana (anche perchè non so cosa togliere e, inoltre, non voglio entrare con troppe REB). Riesco a vedere due Relic questo game ma non bastano per evitare a Luigi di appoggiare una Gurmag. Per mia fortuna, Luigi si milla inavvertitamente Unexpected Fangs ma non riesco comunque a chiudere in tempo e soccombo dai biscioni.
@@ -117,7 +121,8 @@ Altro turno, altro mazzo champagne. So che Davide gioca una versione tutta sua d
 G1 Davide parte on the play con terra di trono, Mappa e, ovviamente, trono e Breath Weapon in mano. Riesco a portarlo a 16 quando, a turno 3, cala un Boulderbranch Golem che lo riporta a 22. Sono costretto a utilizzare un botto ed un Sigillo per togliere il fastidioso creaturo e continuo a menarlo. Il turno successivo casto un Synth che esilia Bushwhacker, costringendo così Davide a fare una Breath Weapon che pulisce la board. Davide cala quindi monarca rosso, capitalizzando così il vantaggio della board vuota. Per cercare di ripartire, targetto il Crimson Fleet Commodore con un bolt per beccarmi, in tutta risposta, un Fling faccia da 5 danni. Appoggio quindi un barilotto, nella speranza che sopravviva al prossimo turno e così sarà. Tocca di nuovo a me e appoggio l'MVP della serata: Goblin Sledder. Sulla dichiarazione degli attaccanti, Davide misplaya e tira una Breath Weapon, alla quale rispondo saccando la Slitta per far sopravvivere il Blast Runner e menare per 4. Siamo entrambi consci che questo errore gli costerà la partita e, infatti, dopo due turni, riesco a chiudere il game, forte del vantaggio carte dato da Monarch.
 
 Side in: 2 Smash to Smithereens
-Side out: 2 Seal of Fire (credo, mi sono dimenticato di segnarlo ma, a mia discolpa, era anche l'una e mezza di notte)
+
+Side out: 2 Seal of Fire (credo, mi sono dimenticato di segnarlo ma, a mia discolpa, era anche l'una e mezza di notte.)
 
 Con la coda dell'occhio cerco di capire quante carde Davide stia sidando, per sidare di conseguenza come siderei contro Altar Tron. Per non correre troppi rischi e mettere carte inutili, entro solo con due removal per artefatti, in modo da togliergli eventuali altari o i Boulderbranch. Purtroppo l'oppo è costretto a mulligare a 5 e il game non inizia nemmeno. Davide parte di Stella Cromatica mentre io inizio aggressivo con un Lackey. Il turno successivo cala mappa che, senza il mana necessario per essere sacrificata, si mangia uno Smash to Smithereens. Un secondo Smash su mappa seguito un paio di creature costringeranno Davide a concedere.
 
