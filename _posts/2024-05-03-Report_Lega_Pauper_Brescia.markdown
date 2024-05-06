@@ -72,7 +72,7 @@ G3 tengo una buona mano ed il game va abbastanza veloce. L'unica giocata rilevan
 ## Turno 2 - BGR Dredge (Francesco Pina)
 **Risultato**: 2 - 1
 
-G1 perdo malamente il dado ma la mano iniziale mi sembra buona: Fornace, landa, Lara Croft, Bushwhacker, Lackey e Seal of Fire. Sarebbe un game facile se al secondo turno l'oppo non avesse millato uno Gnaw to the Bone ed un Stinkweed Imp con l'ETB di Satyr Wayfinder. Non curante delle botte ricevute, dopo neanche un turno Francesco casta un Rosicchiare fino all'Osso da 26 e casta un Dread Return, rianimando un Lotleth Troll che mi pinga per 12. Guardo il cimitero dell'oppo e ci sono due Dread Return e un paio di ciccioni. Decido allora di killare il Gigante con un Bolt ed un Seal of Fire, temendo un Acorn Harvest in mano. Il Sigillo triggera il Blast Runner e mi permette così di menare un po', per provare a portare l'oppo più basso di vita possibile nella speranza che lui non veda un altro rianimino. Purtroppo Pina ne aveva già pescato una altro e quindi si mette in saccoccia G1 senza troppi affanni.
+G1 perdo malamente il dado ma la mano iniziale mi sembra buona: Fornace, landa, Lara Croft, Bushwhacker, Lackey e Seal of Fire. Sarebbe un game facile se al secondo turno l'oppo non avesse millato uno Gnaw to the Bone ed un Stinkweed Imp con l'ETB di Satyr Wayfinder. Non curante delle botte ricevute, dopo neanche un turno Francesco casta un Rosicchiare fino all'Osso da 26 e casta un Dread Return, rianimando un Lotleth Troll che mi pinga per 12. Guardo il cimitero dell'oppo e ci sono due Dread Return e un paio di ciccioni. Decido allora di killare il Gigante con un Bolt ed un Seal of Fire, temendo un Acorn Harvest in mano. Il Sigillo triggera il Blast Runner e mi permette così di menare un po', per provare a portare l'oppo più basso di vita possibile nella speranza che lui non veda un altro rianimino. Purtroppo Pina ne aveva già pescato un altro e quindi si mette in saccoccia G1 senza troppi affanni.
 
 Side in: 3 Relic of Progenitus
 
@@ -87,7 +87,7 @@ G3 teniamo entrambi senza azzardare un mulligan. Io tengo una mano senza Relic m
 ## Turno 3 - Mono White Tron (Luca Rizzardi)
 **Risultato**: 2 - 0
 
-Turno 3 contro un mazzo champagne che non sono riuscito ad osservare i turni precedenti, quindi sono totalmente spaesato: non so se giocare intorno a Prismatic Strands e maledico il momento in cui ho deciso di non metterle di side. Il primo game, per sfortuna di Rizzo, finisce molto in fretta a causa di una sua incredibile floodata. Le uniche carte non terra che vedrà sono le Expedition Map.
+Turno 3 contro un mazzo champagne che non sono riuscito ad osservare i turni precedenti, quindi sono totalmente spaesato: non so se giocare intorno a Prismatic Strands e maledico il momento in cui ho deciso di non mettere i Flaring Pain di side. Il primo game, per sfortuna di Rizzo, finisce molto in fretta a causa di una sua incredibile floodata. Le uniche carte non terra che vedrà sono le Expedition Map.
 
 Side in: - (non ho letteralmente visto nulla e non so se valga la pena entrare di Smash per Mappa, essendo Rizzo on the play)
 
