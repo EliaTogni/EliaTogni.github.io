@@ -11,6 +11,7 @@ tag:
 category: blog
 author: bonsoir\_elio\_t
 description: A brief report of my last league
+
 ---
 
 Ciao a tutti! Sono Elia Togni, in arte **bonsoir_elio_t**, e scrio qui il report della tappa di Lega Pauper Brescia di Venerdì 3 Maggio in cui mi sono posizionato primo con lo score di 5-0.
@@ -116,15 +117,15 @@ G3 tengo monolanda molto allettante: Montagna, Epicure, Tomb Raider, Lackey, Sli
 ## Turno 5 - Mono Red Tron (Davide Caile)
 **Risultato**: 2 - 0
 
-Altro turno, altro mazzo champagne. So che Davide gioca una versione tutta sua di Mono Red Tron che, post side, può cambiare gameplan inserendo la combo di Altar Tron. Sono abbastanza impensierito dalle Breath Weapon di main ma, almeno, so che non corro il rischio di vedere un Fangren Marauder o delle Weather the Storm, quindi posso gestirmela.
+Altro turno, altro mazzo champagne. So che Davide gioca una versione tutta sua di Mono Red Tron con Rust Goliath, Fling e monarca che, post side, può cambiare gameplan inserendo la combo di Altar Tron. Sono abbastanza impensierito dalle Breath Weapon di main ma almeno so che non corro il rischio di vedere un Fangren Marauder o delle Weather the Storm, quindi posso gestirmela relativamente in serenità.
 
 G1 Davide parte on the play con terra di trono, Mappa e, ovviamente, trono e Breath Weapon in mano. Riesco a portarlo a 16 quando, a turno 3, cala un Boulderbranch Golem che lo riporta a 22. Sono costretto a utilizzare un botto ed un Sigillo per togliere il fastidioso creaturo e continuo a menarlo. Il turno successivo casto un Synth che esilia Bushwhacker, costringendo così Davide a fare una Breath Weapon che pulisce la board. Davide cala quindi monarca rosso, capitalizzando così il vantaggio della board vuota. Per cercare di ripartire, targetto il Crimson Fleet Commodore con un bolt per beccarmi, in tutta risposta, un Fling faccia da 5 danni. Appoggio quindi un barilotto, nella speranza che sopravviva al prossimo turno e così sarà. Tocca di nuovo a me e appoggio l'MVP della serata: Goblin Sledder. Sulla dichiarazione degli attaccanti, Davide misplaya e tira una Breath Weapon, alla quale rispondo saccando la Slitta per far sopravvivere il Blast Runner e menare per 4. Siamo entrambi consci che questo errore gli costerà la partita e, infatti, dopo due turni, riesco a chiudere il game, forte del vantaggio carte dato da Monarch.
 
 Side in: 2 Smash to Smithereens
 
-Side out: 2 Seal of Fire (credo, mi sono dimenticato di segnarlo ma, a mia discolpa, era anche l'una e mezza di notte.)
+Side out: 2 Seal of Fire (credo, mi sono dimenticato di segnarlo ma, a mia discolpa, era anche l'una e mezza di notte)
 
-Con la coda dell'occhio cerco di capire quante carde Davide stia sidando, per sidare di conseguenza come siderei contro Altar Tron. Per non correre troppi rischi e mettere carte inutili, entro solo con due removal per artefatti, in modo da togliergli eventuali altari o i Boulderbranch. Purtroppo l'oppo è costretto a mulligare a 5 e il game non inizia nemmeno. Davide parte di Stella Cromatica mentre io inizio aggressivo con un Lackey. Il turno successivo cala mappa che, senza il mana necessario per essere sacrificata, si mangia uno Smash to Smithereens. Un secondo Smash su mappa seguito un paio di creature costringeranno Davide a concedere.
+Con la coda dell'occhio cerco di capire quante carte Davide stia sidando, per sidare di conseguenza come siderei contro Altar Tron. Per non correre troppi rischi e mettere carte inutili, entro solo con due removal per artefatti, in modo da togliergli eventuali altari o i Boulderbranch. Purtroppo l'oppo è costretto a mulligare a 5 e il game non inizia nemmeno. Davide parte di Stella Cromatica mentre io inizio aggressivo con un Lackey. Il turno successivo cala mappa che, senza il mana necessario per essere sacrificata, si mangia uno Smash to Smithereens. Un secondo Smash su mappa seguito un paio di creature costringeranno Davide a concedere.
 
 ---
 
