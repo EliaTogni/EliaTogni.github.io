@@ -14,7 +14,7 @@ description: A brief report of my last league
 
 ---
 
-Ciao a tutti! Sono Elia Togni, in arte **bonsoir_elio_t**, e scrio qui il report della tappa di Lega Pauper Brescia di Venerdì 3 Maggio in cui mi sono posizionato primo con lo score di 5-0.
+Ciao a tutti! Sono Elia Togni, in arte **bonsoir_elio_t**, e scrivo qui il report della tappa di Lega Pauper Brescia di Venerdì 3 Maggio in cui mi sono posizionato primo con lo score di 5-0.
 
 Premessa: Venerdì ho dimenticato il mio fidato segnapunti sul quale mi annoto anche l'andamento delle partite. Fortunatamente sono riuscito a recuperare dei fogli di carta ma solo dal secondo turno. Il report del primo turno farà quindi affidamento solo sulla mia scarsa memoria.
 
