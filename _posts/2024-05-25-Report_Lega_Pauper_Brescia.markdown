@@ -58,7 +58,7 @@ Finalmente sono riuscito a chiudere un altro mazzo oltre a mono Red. Dico finalm
 
 La scelta di portare un mazzo complicato quale è Moggwarts è stata condizionata da alcuni fattori tra cui, primo su tutti, i risultati assurdi di Hamuda in ogni Pauper Challenge nonostante giocasse in double queue. Gli altri fattori sono le mille top 8 fatte da Alessandro Morino con il mazzo ed il mio voler giocare una lista che mi costringa a migliorare la mia capacità di lettura della mano dell'oppo.
 
-Da bimbo diligente, prima del torneo ho guardato alcuni dei video più recenti di Hamuda su youtube per farmi un'idea di come sidare contro i vari matchup. Ovviamente non mi è capitato nessun matchup di quelli osservati in precedenza e ogni game sidare out sempre le stesse carte.
+Da bimbo diligente, prima del torneo ho guardato alcuni dei video più recenti di Hamuda su youtube per farmi un'idea di come sidare contro i vari matchup. Ovviamente non mi è capitato nessun matchup di quelli osservati in precedenza e ogni game mi sono trovato a sidare out sempre le stesse carte.
 
 ---
 
@@ -85,8 +85,8 @@ Game complicato in quanto credo che Grixis Affinity sia un brutto matchup per Mo
 
 G1 mullighiamo entrambi a 6 e parto on the play. Inizio con un Impulsive Pilferer che piego per iniziare ad intaccare i punti vita dell'oppo. Il match si conclude relativamente in fretta perchè riesco a chiudere la combo nonostante un paio di Cast Down.
 
-Side in:
-Side out:
+Side in: 2 Cast into the Fire, 2 Red Elemental Blast, 1 Abrade, 2 Gorilla Shaman<br />
+Side out: 1 Impulsive Pilferer, 1 Krark-Clan Shaman, 2 Chromatic Star, 1 Fanatical Offering, 1 Ichor Wellspring<br />
 
 Ho giocato 61 carte nel G2 perchè non ero sicuro che togliere il secondo Pilferer fosse la scelta giusta ma non sapevo cosa altro tagliare (forse Matrona ma perdere un eventuale tutore per pezzo della combo mi sembrava brutto).
 
