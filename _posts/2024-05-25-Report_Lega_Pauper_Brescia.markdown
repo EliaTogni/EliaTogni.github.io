@@ -46,7 +46,7 @@ Ciao a tutti! Sono Elia Togni, in arte **bonsoir_elio_t**, e scrivo qui il repor
 
 **SIDEBOARD**<br />
 2 Gorilla Shaman<br />
-1 krark-Clan Shaman<br />
+1 Krark-Clan Shaman<br />
 1 Masked Vandal<br />
 2 Duress<br />
 2 Introduction to Prophecy<br />
