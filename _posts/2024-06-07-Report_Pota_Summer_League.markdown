@@ -2,7 +2,7 @@
 title: "Report Seconda Tappa Pota Summer League"
 layout: post
 date: 2024-06-07 00:00
-image: /assets/images/PotaPauperBrescia.jpg
+image: /assets/images/PotaSummerLeague.jpeg
 headerImage: false
 tag:
 - MTG
