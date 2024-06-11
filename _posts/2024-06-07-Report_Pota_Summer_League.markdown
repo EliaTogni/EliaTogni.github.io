@@ -137,6 +137,6 @@ L'ultimo game della serata, inizio on the draw con la classica terra tappata. Ru
 
 
 # Conclusioni
-Il mazzo mi sembra sempre più solido e finalmente riesco a vedere delle linee di gioco che prima non avrei mai notato. 
+Il mazzo mi sembra sempre più solido e finalmente riesco a vedere delle linee di gioco che prima non avrei mai notato. Soffro ancora parecchio i gameplan aggro e ho paura che Orzhov Blade con topino scartino entrino in meta e mi rendano la vita difficile. Intanto continuerò a testare il mazzo per capirne bene i limiti e le linee che ancora mi sfuggono.
 
 
