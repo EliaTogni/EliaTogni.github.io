@@ -64,9 +64,9 @@ In telecronaca diretta da Amsterdam: Dominguez - Depraz, valevole per la qualifi
 "Chi?!"<br />
 "Il dottor Martella".<br />
 "No!"<br />
-"Mi ha detto il dottor Trivella che dobbiamo andare immediatamente a partecipare ad un torneo Pauper".
-"Nooooo!!!!"
-"Ma con Ponza al 30% del metagame..."
+"Mi ha detto il dottor Trivella che dobbiamo andare immediatamente a partecipare ad un torneo Pauper".<br />
+"Nooooo!!!!"<br />
+"Ma con Ponza al 30% del metagame..."<br />
 
 Imbarcati nella BrognaMobile, percorriamo afose strade di campagna alla volta del Funside di Treviglio, mentre insultiamo Davide "Diego Lopez" Barnabò per aver paccato la serata e mentre cerchiamo di capire come stia proseguendo il Pro Tour.
 
