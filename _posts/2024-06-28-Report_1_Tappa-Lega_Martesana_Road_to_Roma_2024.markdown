@@ -1,7 +1,7 @@
 ---
 title: "Report 1ª Tappa - Lega Martesana Road to Roma 2024"
 layout: post
-date: 2024-06-07 00:00
+date: 2024-06-28 00:00
 image: /assets/images/PotaSummerLeague.jpeg
 headerImage: false
 tag:
