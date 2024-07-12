@@ -82,7 +82,7 @@ Imbarcati nella BrognaMobile, percorriamo afose strade di campagna alla volta de
 **Risultato**: 2 - 0
 
 Turno 1 e subito contro una compare di lega, anche lei in trasferta causa chiusura del nostro LGS di fiducia. Vedo le sleeves arancioni di Anxhela e so già che sta per picchiarmi con dei Bogles. Fortuna vuole che non abbia ancora reperito la nuova, fortissima aggiunta di MH3, cioè Malevolent Rumble.<br />
-G1 si sviluppa come un canonico matchup Bogles-Moggwarts: lei appoggia un pezzo, lo equippa e mi mena mentre io scavo per cercare la combo. Fino a qui tutto normale, fino a quando non mi becco una Duress inattesa che si mangia una Deadly Dispute e mi rallenta la ricerca della First Day vincente. Prendo pigne su pigne nei denti fino a ritrovarmi a dover parare un Bogle con trample usando 3 Goblin Putridi per non perdere malamente e scendere a 2 punti vita. In end tiro una fanatica su quello che rimaneva dei gobbi persistenti e pesco una First Day. Ora manca solo un Putrido integro. Inizio spaccando la mappa e vado subito a segno, permettendomi così di scombare e vincere G1.
+G1 si sviluppa come un canonico matchup Bogles-Moggwarts: lei appoggia un pezzo, lo equippa e mi mena mentre io scavo per cercare la combo. Fino a qui tutto normale, fino a quando non mi becco una Duress inattesa che si mangia una Deadly Dispute e mi rallenta la ricerca della First Day vincente. Prendo pigne su pigne nei denti fino a ritrovarmi a dover parare un Bogle con trample usando 3 Goblin Putridi per non perdere malamente e scendere a 2 punti vita. In end tiro una Fanatical su quello che rimaneva dei gobbi persistenti e pesco una First Day. Ora manca solo un Putrido integro. Inizio spaccando la mappa e vado subito a segno, permettendomi così di scombare e vincere G1.
 
 
 Side in: 2 Krark-Clan Shaman, 2 Mesmeric Fiend<br />
@@ -103,7 +103,7 @@ Side in: 2 Krark-Clan Shaman, 2 Mesmeric Fiend<br />
 Side out: 1 Unearth, 1 Mystical Teachings, 1 Impulsive Pilferer, 1 Goblin Matron<br />
 
 
-Perdo ma i miei compari cercano subito di tirarmi su di morale, al suono di "git gud", "scarso di merda", "coglione". Ovviamente loro sono 2-0.
+Perdo ma i miei compari cercano subito di tirarmi su di morale, al suono di "git gud", "scarso di merda", "coglione". Ovviamente loro sono entrambi 2-0.
 
 ---
 

@@ -67,12 +67,12 @@ Da bimbo diligente, prima del torneo ho guardato alcuni dei video più recenti d
 **Risultato**: 2 - 0
 
 Negli ultimi tempi il buon Rigo ha portato Caw-Gates, il quale credo sia un buon matchup per il mio mazzo. Tuttavia, la Torre di Urza T1 da parte sua fa rivedere il mio gameplan.
-Tra l'altro, come è ben noto, senza lande non si gioca e l'oppo è stato costretto a mulligare a 5 per poterne trovare un numero sufficiente. Questa cosa rallenta tantissimo il suo gameplan, che già non interagisce con il mio. Appoggio Skirk, appoggio Putrido e mostro First Day of Class. Rigo non aspetta nemmeno il mio mostrargli la chiusura che si esibisce nella mossa del granchio. G1 in saccoccia.
+Tra l'altro, come è ben noto, senza lande non si gioca e l'oppo è stato costretto a mulligare a 5 per poterne trovare un numero sufficiente. Questa cosa rallenta tantissimo il suo piano di gioco, che già non interagisce particolarmente con il mio. Appoggio Skirk, appoggio Putrido e mostro First Day of Class. Rigo non aspetta nemmeno il mio mostrargli la chiusura che si esibisce nella mossa del granchio. G1 in saccoccia.
 
 Side in: 2 Cast into the Fire, 2 Duress
 Side out: 1 Krark-Clan Shaman, 2 Chromatic Star, 1 Pilferer
 
-Entro con modi di esigliargli i Myr Retriever e guadagnare tempo, oltre che con delle Duress. Non so se la sidata è corretta ma il Krark-Clan Shaman non mi pare molto utile quindi ho provato a sostituirlo con dei tappabuchi ragionevoli.
+Entro con modi di esiliargli i Myr Retriever e guadagnare tempo, oltre che con delle Duress. Non so se la sidata sia corretta ma il Krark-Clan Shaman non mi pareva molto utile quindi ho provato a sostituirlo con dei tappabuchi ragionevoli.
 
 G2 mulligo a 6 ma parto on the draw, quindi non ne risento particolarmente. Faccio un Mesmeric Fiend early che mi permette di sloware la sua scombata mentre picchio di Putrido e di Skirk. Continuo a picchiare fino a quando non trovo l'ultimo pezzo della combo e, consapevole del non dover giocare intorno a nulla, tiro le figurine sul tavolo con arroganza.
 
@@ -81,7 +81,7 @@ G2 mulligo a 6 ma parto on the draw, quindi non ne risento particolarmente. Facc
 ## Turno 2 - Grixis Affinity (Fadi Mohiddin)
 **Risultato**: 1 - 1
 
-Game complicato in quanto credo che Grixis Affinity sia un brutto matchup per Moggwarts. Tra counter, botti, cast down e hate per il cimitero, navigare correttamente il matchup trovo sia parecchio complicato e, purtroppo, sono ancora alle prime armi con il mazzo.
+Game complicato in quanto credo che Grixis Affinity sia un brutto matchup per Moggwarts. Tra counter, botti, Cast Down e hate per il cimitero, navigare correttamente il matchup trovo sia parecchio complicato e, purtroppo, sono ancora alle prime armi con il mazzo.
 
 G1 mullighiamo entrambi a 6 e parto on the play. Inizio con un Impulsive Pilferer che piego per iniziare ad intaccare i punti vita dell'oppo. Il match si conclude relativamente in fretta perchè riesco a chiudere la combo nonostante un paio di Cast Down.
 
