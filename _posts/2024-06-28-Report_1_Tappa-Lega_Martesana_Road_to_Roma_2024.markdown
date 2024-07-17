@@ -54,7 +54,7 @@ Primo testing della new entry Mystical Teachings, spicy sia per poter citare un 
 Normalmente il Venerdì sera è tappa di lega fissa al Planet Fun di Rovato, ma questa settimana il nostro negoziante di fiducia Simone Orizio ha ben deciso di volare ad Amsterdam per giocare Tonni moderni al Magiccon 2024 e per vedere i musei (cit.).
 
 Mi dirigo alla volta di un piccolo paese del Bresciano, dimenticato da Dio e dall'uomo, a casa del dottor Roberto Brognoli. Appena varcato l'ingresso, vengo accolto da versi e pose di Registeeliana memoria da parte dell'irriducibile Marco Trivella, intento ad commentare un game di Dominguez.<br />
-In telecronaca diretta da Amsterdam: Dominguez - Depraz, valevole per la qualificazione al day 2. Avevamo un programma formidabile; calze, mutande, vestaglione di flanella, tavolinetto di fronte al televisore, pizza prosciutto cotto e origano per la quale andava pazzo, familiare di Fanta gelata, tifo indiavolato e rutto libero.
+In telecronaca diretta da Amsterdam: Dominguez - Depraz, valevole per la qualificazione al day 2. Avevamo un programma formidabile; calze, mutande, vestaglione di flanella, tavolinetto di fronte al televisore, pizza prosciutto cotto e origano per la quale vado pazzo, familiare di Fanta gelata, tifo indiavolato e rutto libero.
 
 "Elia".<br />
 "Eh".<br />
