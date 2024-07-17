@@ -133,7 +133,7 @@ G1 non ricordo nulla se non di aver scombato relativamente presto. Ormai ho una 
 
 
 Side in: 3 Cast into the Fire, 2 Gorilla Shaman, 2 Red Elemental Blast <br />
-Side out: 1 Mystical Teachings, 2 Impulsive Pilferer, 1 Goblin Matron, 1 Blood Fountain, 1 Eviscerator's Insight, 1 Ichor Wellspring< br />
+Side out: 1 Mystical Teachings, 2 Impulsive Pilferer, 1 Goblin Matron, 1 Blood Fountain, 1 Eviscerator's Insight, 1 Ichor Wellspring<br />
 
 
 G2 la dea bendata mi assiste e, mentre mi permetto di tenere una mano discreta, l'oppo è obbligato a scendere a 5 per cercare delle lande. Lande che si mangiano subito un bel Cast into the Fire, rallentando ulteriormente il mio oppo. Il game prosegue senza grandi colpi di scena fino a quando Rigo appoggia sia Nihil Spellbomb che Krark-Clan Shaman ai quali devo trovare risposta per vincere. Ho in board entrambe le creature fondamentali della combo e una mano altrettanto gonfia grazie ad una disputa in end: First Dat, 2 Putridi, 2 Skirk, una Duress, una Matrona, un Cast into the Fire e un Unearth.Con una Duress tolgo un counter dalla mano dell'oppo e provo a fare Cast su Nihil. L'oppo risponde attivando l'abilità dello Shaman saccando due artefatti e io casto First Day saccando Putrido e Skirk. Rigo risponde esiliandomi il Putrido in risposta al trigger di Persist ma, a questo punto, so già che i suoi tre botti in mano non possono fermarmi e scombo.
