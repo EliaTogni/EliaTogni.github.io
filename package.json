@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\"",
+    "check": "for f in assets/js/*.js; do node --check \"$f\" || exit 1; done && npm test",
+    "gate": "node --test tests/launch-gate.js"
+  }
+}
