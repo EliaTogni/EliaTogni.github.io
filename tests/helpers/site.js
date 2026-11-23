@@ -22,14 +22,9 @@ function customProps(block) {
   return out;
 }
 
-/** Color tokens from site.css; dark = light merged with the prefers-color-scheme: dark block. */
-export function cssTokens(mode) {
-  const css = read('assets/css/site.css');
-  const light = customProps(css.match(/^:root\s*\{([^}]*)\}/m)[1]);
-  const tokens = mode === 'dark'
-    ? { ...light, ...customProps(css.match(/@media\s*\(prefers-color-scheme:\s*dark\)\s*\{\s*:root\s*\{([^}]*)\}/)[1]) }
-    : light;
-  const { bg, fg, muted, line, rim } = tokens;
+/** Color tokens from the :root block of site.css. */
+export function cssTokens() {
+  const { bg, fg, muted, line, rim } = customProps(read('assets/css/site.css').match(/^:root\s*\{([^}]*)\}/m)[1]);
   return { bg, fg, muted, line, rim };
 }
 

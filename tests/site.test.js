@@ -4,13 +4,18 @@ import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { ROOT, htmlFiles, read, cssTokens, contrast, localRefs, hrefsInBlock } from './helpers/site.js';
 
-test('tokens match the spec and text reaches 4.5:1 in both modes', () => {
-  assert.deepEqual(cssTokens('light'), { bg: '#ffffff', fg: '#161616', muted: '#6e6e6e', line: '#e6e6e6', rim: '#d1d1d6' });
-  assert.deepEqual(cssTokens('dark'),  { bg: '#0e0e0e', fg: '#e9e9e9', muted: '#a0a0a0', line: '#2b2b2b', rim: '#d1d1d6' });
-  for (const m of ['light', 'dark']) {
-    const t = cssTokens(m);
-    assert.ok(contrast(t.fg, t.bg) >= 4.5); assert.ok(contrast(t.muted, t.bg) >= 4.5);
-  }
+test('tokens match the spec and text reaches 4.5:1', () => {
+  const t = cssTokens();
+  assert.deepEqual(t, { bg: '#ffffff', fg: '#161616', muted: '#6e6e6e', line: '#e6e6e6', rim: '#d1d1d6' });
+  assert.ok(contrast(t.fg, t.bg) >= 4.5); assert.ok(contrast(t.muted, t.bg) >= 4.5);
+});
+
+test('always white: no dark mode, the coin and small logo have no rim ring at rest', () => {
+  const css = read('assets/css/site.css');
+  assert.doesNotMatch(css, /prefers-color-scheme/);
+  assert.match(css, /color-scheme:\s*light;/);
+  assert.doesNotMatch(css, /\.coin \.face::after/);
+  assert.doesNotMatch(css, /\.top__home img\s*\{[^}]*box-shadow/);
 });
 
 test('no third-party requests', () => {
@@ -91,4 +96,18 @@ test('home: the Italian tagline is marked lang="it" on the English page', () => 
 test('published JPEGs carry no EXIF metadata', () => {
   for (const f of readdirSync(join(ROOT, 'assets'), { recursive: true }).filter(n => /\.jpe?g$/i.test(n)))
     assert.ok(!readFileSync(join(ROOT, 'assets', f)).includes('Exif\0\0'), f);
+});
+
+test('coin layers keep a transparent margin so their border texels are transparent', () => {
+  const rule = read('assets/css/site.css').match(/\.coin \.face, \.coin \.edge \{([^}]*)\}/)[1];
+  assert.match(rule, /inset:\s*-2px/);
+  assert.match(rule, /border:\s*2px solid transparent/);
+  assert.match(rule, /background-clip:\s*padding-box/);
+  // a later `background:` shorthand on the same elements would reset background-clip to border-box
+  for (const [, body] of read('assets/css/site.css').matchAll(/\.coin \.(?:face|edge)\s*\{([^}]*)\}/g))
+    assert.doesNotMatch(body, /(^|[;\s])background\s*:/);
+});
+
+test('edge discs are 1px smaller than the faces, so no grey ring shows at rest', () => {
+  assert.match(read('assets/css/site.css'), /\.coin \.edge\s*\{[^}]*border-width:\s*3px/);
 });
