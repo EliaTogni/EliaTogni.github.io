@@ -46,12 +46,11 @@ test('home: title, language, tagline, nav, coin', () => {
   assert.match(h, /<script type="module" src="\/assets\/js\/coin\.js"><\/script>/);
 });
 
-test('home: social links in today\'s order, each labelled', () => {
+test('home: work contacts only, github first, each labelled', () => {
   const h = read('index.html');
   assert.deepEqual(hrefsInBlock(h, 'ul', 'social'), [
-    'https://facebook.com/elia.togni', 'https://twitter.com/bonsoir_elio_t',
-    'https://instagram.com/bonsoir_elio_t', 'https://www.linkedin.com/in/elia-togni-5145a814b',
-    'https://github.com/EliaTogni', 'mailto:elia97.togni@gmail.com']);
+    'https://github.com/EliaTogni', 'https://www.linkedin.com/in/elia-togni-5145a814b',
+    'mailto:elia97.togni@gmail.com']);
   const links = h.split('<ul class="social"')[1].split('</ul>')[0].match(/<a\b[^>]*>/g);
   for (const a of links) {
     assert.match(a, /aria-label="[^"]+"/);
